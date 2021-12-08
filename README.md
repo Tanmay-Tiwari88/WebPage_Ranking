@@ -1,7 +1,6 @@
 # Information Retrieval and Semantic Web Mini Project
 
 ## Group Members
-Sr. No. Name,                  Enroll,         Batch  <br /> 
 1. Anupriya Verma,       18103156,         B5  <br /> 
 2. Divang Gautam,        18103302,         B5 <br /> 
 3. Nikhil Srivastav,     18103171,         B5 <br /> 
