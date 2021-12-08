@@ -1,5 +1,12 @@
 # Information Retrieval and Semantic Web Mini Project
 
+## Group Members
+Name                  Enroll         Batch
+Anupriya Verma       18103156         B5
+Divang Gautam        18103302         B5
+Nikhil Srivastav     18103171         B5
+Tanmay Tiwari        18103178         B5
+
 ## Area of Information Retrieval
 It is an implementation of Google's PageRank algorithm. It allows a user to search for a term on the https://www.clemson.edu/ domain and see every webpage that the word appears on along with that page's Google PageRank score (which shows how important the webpage is).
 
