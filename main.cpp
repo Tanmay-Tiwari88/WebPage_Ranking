@@ -1,7 +1,3 @@
-//Homework 1
-//Name: Parth Patel
-//CPSC 2120
-//09/21/2015
 
 #include <cstring>
 #include <fstream>
